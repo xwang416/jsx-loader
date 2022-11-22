@@ -5,7 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "jstransform": "11",
-    "loader-utils": "^0.2.2"
+    "loader-utils": "^1.4.2"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
